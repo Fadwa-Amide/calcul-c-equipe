@@ -12,8 +12,5 @@ int main() {
     
     return 0;
 }
-int main() {
-    printf("Projet collaboratif\n");
-    return 0;
-}
+
 
