@@ -11,9 +11,5 @@ int main() {
     printf("Le produit est : %d\n", produit(x, y));
     
     return 0;
-}
-int main() {
-    printf("Projet collaboratif\n");
-    return 0;
-}
+
 
